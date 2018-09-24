@@ -1,0 +1,32 @@
+_repo: Sammtliche-Werke-7-Briefwechsel-I_56174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolaj
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  editor:
+    agent_name: Buek, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '45416'
+    url: http://www.gutenberg.org/2009/agents/45416
+description: ''
+gutenberg_issued: '2017-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56174'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sämmtliche Werke 7: Briefwechsel I'
+url: http://www.gutenberg.org/ebooks/56174
